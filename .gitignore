@@ -1,0 +1,17 @@
+
+
+# PDFs
+*.pdf
+
+# Chroma DB
+data/chroma_db/
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+.env
+
